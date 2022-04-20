@@ -11,8 +11,8 @@ a	ą	b	c	č	d	e	ę	ė	f	g	h	i	į	y	j	k	l	m	n	o	p	r	s	š	t	u	ų	ū	v	z	ž
 0. Download common voice (done)
 1. Reproduce training in Huggingface (done) WER 0.6546
 1.5 Prepare for fairseq training (done)
-2. Reproduce training in Fairseq
-3. Find additional data sources (apart from common voice)
+2. Reproduce training in Fairseq (doing)
+3. Find additional data sources (doing)
 4. Augment common voice data using known augmentation techniques (found in the augmentation-folder) (doing)
 5. Train with a larger model size.
 6. Achieve State of the Art.
@@ -21,6 +21,9 @@ a	ą	b	c	č	d	e	ę	ė	f	g	h	i	į	y	j	k	l	m	n	o	p	r	s	š	t	u	ų	ū	v	z	ž
 
 
 ## Fun things to do
+
+## Find more data sources
+https://github.com/liepa-project
 
 ### Train a base model in Lithuanian.
 We need a lot of data in Lithuanian.
